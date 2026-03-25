@@ -1,5 +1,11 @@
 # Optimización Heurística: Optimización Numérica y Combinatoria
 
+Realizado por:
+Andres Felipe Díez Ángel
+Daimler Arleth Anave Anave
+Jorge Humberto Gaviria Botero
+Juan Pablo Chamorro Bolaños
+
 Repositorio del trabajo **“Optimización Heurística”**, enfocado en la comparación de métodos de optimización continua y combinatoria mediante implementaciones reproducibles, visualizaciones y análisis experimental.
 
 El proyecto se divide en dos partes:
